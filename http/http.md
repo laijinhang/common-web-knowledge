@@ -17,6 +17,10 @@ func Do(req *http.Request) []byte {
 	return result
 }
 ```
+GET请求
+```golang
+http.Get(url string)
+```
 
 POST请求封装
 ```golang

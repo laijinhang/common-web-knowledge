@@ -1,3 +1,4 @@
 - [第一章 工作中常用SQL](https://github.com/laijinhang/personal-notes/blob/master/mysql/ch1/README.md)
 - 第二章 工作中常用函数
 - 第三章 工作中常用优化
+- 第四章 工作中常用索引知识

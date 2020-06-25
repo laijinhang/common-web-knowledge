@@ -12,8 +12,8 @@
 > 一般使用名词复数
 
 **用户**
-users：用户
-members：会员
-accounts：账户
+* users：用户
+* members：会员
+* accounts：账户
 # 3、数据库名
 > 一般以项目名命名

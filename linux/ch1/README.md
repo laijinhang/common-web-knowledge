@@ -18,3 +18,8 @@
 - tail -f 文件：实时查看文件
 ### 6. linux上传文件到linux
 - scp -r fileName username@server_ip:/home/username/
+
+### 7. 测试网络
+- ping ip：测试目的地址是否可达
+- ip addr：查看ip
+- ifconfig：查看ip

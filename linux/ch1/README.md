@@ -16,3 +16,5 @@
 - cat 文件 | tail +n 行数：从第一开始查看n行
 - cat 文件 | tail -n 行数：查看末尾n行
 - tail -f 文件：实时查看文件
+### 6. linux上传文件到linux
+- scp -r fileName username@server_ip:/home/username/

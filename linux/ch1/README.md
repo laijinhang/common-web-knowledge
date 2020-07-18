@@ -24,3 +24,5 @@
 - ping ip：测试目的地址是否可达
 - ip addr：查看ip
 - ifconfig：查看ip
+
+### 8. 磁盘相关
